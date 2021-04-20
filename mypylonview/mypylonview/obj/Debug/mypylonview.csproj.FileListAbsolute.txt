@@ -1,0 +1,11 @@
+c:\users\david2711\documents\visual studio 2013\Projects\mypylonview\mypylonview\bin\Debug\mypylonview.exe.config
+c:\users\david2711\documents\visual studio 2013\Projects\mypylonview\mypylonview\bin\Debug\mypylonview.exe
+c:\users\david2711\documents\visual studio 2013\Projects\mypylonview\mypylonview\bin\Debug\mypylonview.pdb
+c:\users\david2711\documents\visual studio 2013\Projects\mypylonview\mypylonview\bin\Debug\PylonC.NETSupportLibrary.dll
+c:\users\david2711\documents\visual studio 2013\Projects\mypylonview\mypylonview\bin\Debug\PylonC.NETSupportLibrary.pdb
+c:\users\david2711\documents\visual studio 2013\Projects\mypylonview\mypylonview\obj\Debug\mypylonview.csprojResolveAssemblyReference.cache
+c:\users\david2711\documents\visual studio 2013\Projects\mypylonview\mypylonview\obj\Debug\mypylonview.Form1.resources
+c:\users\david2711\documents\visual studio 2013\Projects\mypylonview\mypylonview\obj\Debug\mypylonview.Properties.Resources.resources
+c:\users\david2711\documents\visual studio 2013\Projects\mypylonview\mypylonview\obj\Debug\mypylonview.csproj.GenerateResource.Cache
+c:\users\david2711\documents\visual studio 2013\Projects\mypylonview\mypylonview\obj\Debug\mypylonview.exe
+c:\users\david2711\documents\visual studio 2013\Projects\mypylonview\mypylonview\obj\Debug\mypylonview.pdb
